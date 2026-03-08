@@ -1,6 +1,6 @@
 # ️ National Citizen Segmentation Framework
 ### **Ministry of Digital Economy and Entrepreneurship**
-**AI Directorate - Task #1**
+**AI Directorate - Task 1**
 
 ---
 
